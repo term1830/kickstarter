@@ -40,9 +40,13 @@ async def predict(item: str):
     
     ### 1) Frist click "try it out."
     
-    ### 2) Then enter a description of your project for example, "Happy Halloween, my demented Dynamite comic book reading darlings!  It’s me, Elvira Mistress of the Dark, with a brand new treat for your goodie bag this year. I’ve teamed up with Dreadful David Avallone and Disturbed Dave Acosta to write a brand new comic book story that is perfect for this horror filled season. Follow my four color adventure through a nightmarish apocalyptic landscape after waking from a hairspray induced coma.  What strange creatures will I encounter...find out right here!  Watch for updates from me and exciting stretch goals coming up soon, until then...Unpleasant Dreemz..."
-    
-    ### 3) Then click execute.
+    ### 2) Then enter a description of your project, some examples of successful campaigns include: 
+    - A fast, fun, easy-to-learn, and easy-to-play strategic card game for the whole family.
+    - Dice created to ensure that things escalate quickly! Made from the finest 6061 Aluminum, the Fibonacci dice go from oh to OH!
+    - A short film about love...
+    - A compilation album and accompanying website that features 35 songs based on Sol LeWitt's 35 Sentences on Conceptual Art.
+
+    ### 3) Next click execute.
     
     ### Output) A response of whether or not the project is likely to meet it's funding goal and be successful.  In this case it will be a "1" meaning the model thinks this could be a successfully funded project!
     
